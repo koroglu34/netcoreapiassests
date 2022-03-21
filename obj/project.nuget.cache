@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zJSVb3AyLlomfuHh3D+4+xqfm616RvdROkbrets3yRvYkdWlbj03Nrpb/6+tTJwXkq9uzKq2LDcpNtdk6qiKWQ==",
+  "dgSpecHash": "RbmYxz+4OiVzrHxIf0ozvvuJGCBWB27vcWDBYSBL9NRO2XfGdKdOdBRwEH80dLo/6rnSCFJ7YMYGZHT1eAdbGw==",
   "success": true,
-  "projectFilePath": "/Users/ibrahimkoroglu/Documents/project/nettest2/nettest2.csproj",
+  "projectFilePath": "/Users/ibrahimkoroglu/Documents/project/netcoreapiassests/nettest2.csproj",
   "expectedPackageFiles": [
     "/Users/ibrahimkoroglu/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/ibrahimkoroglu/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

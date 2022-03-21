@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ibrahimkoroglu/Documents/project/nettest2/nettest2.csproj",
+      "projectUniqueName": "/Users/ibrahimkoroglu/Documents/project/netcoreapiassests/nettest2.csproj",
       "projectName": "nettest2",
-      "projectPath": "/Users/ibrahimkoroglu/Documents/project/nettest2/nettest2.csproj",
+      "projectPath": "/Users/ibrahimkoroglu/Documents/project/netcoreapiassests/nettest2.csproj",
       "packagesPath": "/Users/ibrahimkoroglu/.nuget/packages/",
-      "outputPath": "/Users/ibrahimkoroglu/Documents/project/nettest2/obj/",
+      "outputPath": "/Users/ibrahimkoroglu/Documents/project/netcoreapiassests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ibrahimkoroglu/.nuget/NuGet/NuGet.Config"
